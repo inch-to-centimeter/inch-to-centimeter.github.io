@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://inch-to-centimeter.github.io/sitemap.xml
